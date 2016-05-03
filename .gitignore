@@ -1,0 +1,7 @@
+README.md
+README.txt
+installer/log.txt
+lib/confs/Conf.php
+symfony/cache/
+symfony/config/databases.yml
+symfony/log/
